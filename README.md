@@ -1,3 +1,3 @@
-1.Clone This Project 
-2.run npm i
-3.run npm run dev
+1.Clone This Project__ 
+2.run npm i__
+3.run npm run dev__
